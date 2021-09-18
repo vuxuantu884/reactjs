@@ -189,7 +189,7 @@
     display: none;
 }
 
-.footer .actions .fa-play {
+.footer .actions .fa-play, .footer .actions .fa-pause {
     position: relative;
     top: -50%;
     font-size: 22px;
