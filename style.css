@@ -118,6 +118,13 @@
     padding: 15px 10px;
     background-color: #ffffff;
 }
+
+.container .list__music .music__item audio{
+   visibility: hidden;
+   display: none;
+   opacity: 0;
+}
+
 .container .list__music .music__item:nth-child(even) {
     background-color: #f7f7f7;
 
